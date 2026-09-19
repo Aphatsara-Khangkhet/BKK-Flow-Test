@@ -1,0 +1,24 @@
+{
+  "figures": [
+    "11_location_period_heatmap.png",
+    "12_case_survey_dates.png",
+    "13_location_bubbles.png",
+    "14_vehicle_contributions.png",
+    "15_cluster_uncertainty.png",
+    "16_bangkok_matched_map.png"
+  ],
+  "heatmap_locations": 17,
+  "case_rows": 68,
+  "case_locations": 10,
+  "bubble_locations": 17,
+  "bubble_n_values": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "map_intersections": 21,
+  "map_road_units": 42,
+  "map_unmapped_intersections_from_main": 154,
+  "source_discrepancy_preserved": true
+}

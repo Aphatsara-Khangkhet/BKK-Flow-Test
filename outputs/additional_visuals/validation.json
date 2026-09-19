@@ -1,0 +1,14 @@
+{
+  "plots": 20,
+  "mapped_intersections": 21,
+  "mapped_road_units": 42,
+  "coordinates_match_reviewed_snapshot": true,
+  "map_aggregates_checked": true,
+  "heatmap_locations": 17,
+  "bubble_total_n_checked": true,
+  "colab_images_match_local": true,
+  "colab_zip_includes_all_plots_diagnostics_map_assets_and_html": true,
+  "static_visual_qa": "All six new figures inspected; bubble legend inspected after revision",
+  "interactive_qa": "JavaScript focus, selection, period and extent logic checked in DOM mock; actual browser layout unavailable due browser tool failure",
+  "source_discrepancy": "Excel row704 remains unchanged; draft caveat retained"
+}
