@@ -1,0 +1,23 @@
+{
+  "kind": "bar",
+  "categories": [
+    "Before",
+    "During",
+    "After"
+  ],
+  "series": [
+    {
+      "name": "Median index",
+      "values": [
+        100.0,
+        91.46482122260667,
+        90.23846046576487
+      ],
+      "color": "#178778"
+    }
+  ],
+  "ylabel": "Index: Before = 100",
+  "horizontal": false,
+  "baseline": 100,
+  "chart_heading": "02. ปริมาณรถในหน่วยที่จับคู่ครบสามช่วง"
+}
