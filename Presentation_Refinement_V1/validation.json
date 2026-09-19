@@ -1,0 +1,33 @@
+{
+  "original_files_unchanged": true,
+  "original_file_sha256": {
+    "src\\build_audit_notebook.py": "efaa4b37cc2a4c4facfb4b070bf6fc9eb56b1c780acac1e8d9839b8664207933",
+    "src\\build_colab_notebook.py": "f5b47d15827541f1251058eb6e6c2e2756f9d8a93a9c6cd38f49dd1f02074a6c",
+    "src\\build_eda_notebook.py": "530e8a9e688030d6de8fbd784e4d4fa25959e3be6b692a3df3a35abc45457b46",
+    "src\\run_project.py": "4385f9cc9234390ba988af8bb5991c7528ae0980e2b31d8f82803668ded9ed8a",
+    "src\\traffic_additional_visuals.py": "cd5aa0c26dae65dfa6dceb9ef3c53adedcebb530555ed7429a3ce47cd9a1d412",
+    "src\\traffic_audit.py": "8b9b680806d0ca2a5d5ea70412e1e8755212c2092eb01271dbca90a09f7282bb",
+    "src\\traffic_diagnostics.py": "0fdbe32ca715aa7a0b905912d47dd7785fcf9fc653e4526a40e1fecbdf18dffc",
+    "src\\traffic_eda.py": "ee74436f4e33e3c041fd08a08bc93f29fb423e1c69059e0c4b4e1b90cd7a439a",
+    "src\\traffic_patterns.py": "3b6e3865d8b9ac6247c86aea691a610a1570097383dc7f9f2974ca061e69ce80",
+    "src\\verify_additional_visuals.py": "d3b2fe8129456aaf61261b47573046df371343f5833ae3ba2a092c02dd045aa9",
+    "src\\verify_audit_delivery.py": "a81f8977d74923342bca3f4a9816c2142134c2a9b30f2fac2cc2f470011ee8a8",
+    "src\\verify_diagnostics.py": "54921eb6dcdb8c5dd772d57ba6db97f77578196d3f896c355fe1400acac637b8",
+    "src\\verify_eda_delivery.py": "2d6d482576712894db72d579d19546caa2cb918433aa7862f91623c79aba1463",
+    "src\\verify_patterns.py": "8c57db22693cf35d256bdada7552f14ba6c02580b160bc7338482a3c244e342c",
+    "src\\write_audit_report.py": "d91cba76756054ea755f564dd1856682c25af83e3acad592296b97a263911d05",
+    "notebooks\\01_data_feasibility_matching.ipynb": "e95602846ab815d1809347d5efd62ed54550174bddbdb86e8ea03469460958e4",
+    "notebooks\\02_eda_and_visualization.ipynb": "264e46db51195e051169cefb91cc9ab4ef388a963d059dd405424f4f1cf94476",
+    "notebooks\\Bangkok_Traffic_Colab.ipynb": "1137d8425ad13b71bdb2dfa7a7c418e262c35ed2382be1797e94078d53dd0cb8",
+    "Read.md": "9c41f4a9c6811420d9b26e9848f8793632412a0dc21cda35e5aeab8db60c4ac4",
+    "README.md": "aad9556487e24a038e623cfac0620544451f4e6d5351aad343ba5d29b6d50e11"
+  },
+  "selected_cases": [
+    "L03",
+    "L14",
+    "L13"
+  ],
+  "copied_charts": 7,
+  "source_workbook_sha256": "6e1b556f353c66fec5c8a664f3e1e5b5e52e5a756f75c2ae28562c5c0fa6118b",
+  "new_calculation": "case median change excluding After survey dates in 2026; original outputs unchanged"
+}

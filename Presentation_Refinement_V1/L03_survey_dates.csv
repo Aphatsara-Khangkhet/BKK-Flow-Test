@@ -1,0 +1,8 @@
+﻿covid_period,survey_date_parsed,survey_weekday,report_date,vehicles_per_hour,has_assumed_zero,source_excel_row
+ก่อนโควิด,2017-03-13,Monday,2017-03-13,1967.0,False,62
+ก่อนโควิด,2019-02-08,Friday,2019-02-08,2234.0,False,3299
+โควิด,2020-08-28,Friday,2020-08-28,3770.0,False,5831
+โควิด,2021-09-13,Monday,2021-09-13,2338.0,False,7724
+หลังโควิด,2023-08-28,Monday,2023-08-28,2893.0,False,11724
+หลังโควิด,2024-01-11,Thursday,2024-01-11,3049.0,False,12489
+หลังโควิด,2026-03-19,Thursday,2026-03-19,2560.5,False,16635
