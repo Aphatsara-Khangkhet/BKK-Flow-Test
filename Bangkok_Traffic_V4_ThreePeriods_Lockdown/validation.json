@@ -1,0 +1,12 @@
+{
+  "overview_independently_recomputed": true,
+  "lockdown_independently_recomputed": true,
+  "three_period_shares_sum_100": true,
+  "case_vehicles_have_three_periods": true,
+  "notebook_cells": 6,
+  "notebook_errors": 0,
+  "images_match_local": 7,
+  "old_files_unchanged": 185,
+  "source_sha256": "9f3bbdb744a3216ef2c0476a51aef87603fff0de24d133ae4f0debee1760259c",
+  "lockdown_index": 85.74529301902984
+}
