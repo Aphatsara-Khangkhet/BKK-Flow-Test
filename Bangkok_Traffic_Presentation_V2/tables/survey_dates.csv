@@ -1,0 +1,22 @@
+﻿location_code,intersection_key,road_key,covid_period,survey_date_parsed,survey_weekday,report_date,vehicles_per_hour,has_assumed_zero,calendar_screen,period_before_emergency,source_excel_row
+L03,บางขุนนนท์,จรัญสนิทวงศ์,ก่อนโควิด,2017-03-13,Monday,2017-03-13,1967.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,62
+L03,บางขุนนนท์,จรัญสนิทวงศ์,ก่อนโควิด,2019-02-08,Friday,2019-02-08,2234.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,3299
+L03,บางขุนนนท์,จรัญสนิทวงศ์,โควิด,2020-08-28,Friday,2020-08-28,3770.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,5831
+L03,บางขุนนนท์,จรัญสนิทวงศ์,โควิด,2021-09-13,Monday,2021-09-13,2338.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7724
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2023-08-28,Monday,2023-08-28,2893.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,11724
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2024-01-11,Thursday,2024-01-11,3049.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,12489
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2026-03-19,Thursday,2026-03-19,2560.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,16635
+L13,หลักสี่,กำแพงเพชร 6,ก่อนโควิด,2017-06-19,Monday,2017-06-19,2130.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,509
+L13,หลักสี่,กำแพงเพชร 6,ก่อนโควิด,2018-08-21,Tuesday,2018-08-21,1381.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,2480
+L13,หลักสี่,กำแพงเพชร 6,โควิด,2021-05-20,Thursday,2021-05-20,918.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6927
+L13,หลักสี่,กำแพงเพชร 6,โควิด,2021-10-06,Wednesday,2021-10-06,1863.5,True,no_selected_calendar_window; other_events_not_ruled_out,False,7863
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2023-07-25,Tuesday,2023-07-25,1061.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,11550
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2024-01-18,Thursday,2024-01-18,1773.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,12528
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2026-05-20,Wednesday,2026-05-20,1049.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,16950
+L14,หลักสี่,แจ้งวัฒนะ,ก่อนโควิด,2017-06-19,Monday,2017-06-19,2962.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,512
+L14,หลักสี่,แจ้งวัฒนะ,ก่อนโควิด,2018-08-21,Tuesday,2018-08-21,3895.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,2483
+L14,หลักสี่,แจ้งวัฒนะ,โควิด,2021-05-20,Thursday,2021-05-20,2121.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6928
+L14,หลักสี่,แจ้งวัฒนะ,โควิด,2021-10-06,Wednesday,2021-10-06,2885.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7864
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2023-07-25,Tuesday,2023-07-25,2417.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,11553
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2024-01-18,Thursday,2024-01-18,2455.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,12531
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2026-05-20,Wednesday,2026-05-20,2450.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,16953
