@@ -1,0 +1,7 @@
+﻿field,blank,dash,zero_assumed,unresolved,negative,fractional
+passenger_car,0,31,31,0,0,1
+pickup_van,0,33,33,0,0,3
+large_bus,0,428,428,0,0,2
+small_bus,0,1458,1458,0,0,0
+truck,0,118,118,0,0,0
+tuk_tuk,0,220,220,0,0,0

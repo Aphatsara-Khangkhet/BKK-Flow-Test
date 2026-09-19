@@ -1,0 +1,10 @@
+{
+  "within_day_ratios_verified": true,
+  "vehicle_shares_sum_100": true,
+  "road_shares_and_medians_verified": true,
+  "dispersion_recomputed_from_candidates": true,
+  "profile_locations": 26,
+  "mix_locations": 287,
+  "intersections": 98,
+  "sampling_locations": 40
+}

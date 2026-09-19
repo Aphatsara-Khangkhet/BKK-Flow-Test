@@ -1,0 +1,2054 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-13T18:57:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 23610038,
+  "nodes": [
+    1699503382,
+    14105153129,
+    14105152948,
+    255711195,
+    12311595891,
+    12311595893,
+    7775772067,
+    7889286905,
+    12311595892,
+    255711196,
+    5919974419,
+    1693436577,
+    255711197,
+    9363513131,
+    14105153027,
+    14105153115,
+    1699503388
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "40",
+    "name": "ถนนจักรพรรดิพงษ์",
+    "name:en": "Chakkraphatdiphong Road",
+    "name:etymology:wikidata": "Q6636816",
+    "name:th": "ถนนจักรพรรดิพงษ์",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23610096,
+  "nodes": [
+    312063216,
+    14105077023,
+    5297464253,
+    5248397011,
+    1863557612,
+    269347952
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "50",
+    "name": "ถนนนครราชสีมา",
+    "name:en": "Nakhon Ratchasima Road",
+    "name:etymology:wikidata": "Q13022267",
+    "name:th": "ถนนนครราชสีมา",
+    "oneway": "no",
+    "oneway:bus": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 23610157,
+  "nodes": [
+    8230514064,
+    5137245016,
+    11539120613,
+    5136990535,
+    11539133892,
+    5137200874,
+    496755200,
+    496755199,
+    11527702412,
+    5137239642,
+    5137249074,
+    13206327909,
+    496755241
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "ถนนท่าดินแดง",
+    "name:en": "Tha Din Daeng Road",
+    "name:th": "ถนนท่าดินแดง",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 25914725,
+  "nodes": [
+    1692830849,
+    3824862968,
+    1692830846,
+    282547937,
+    3824862967,
+    3184004484,
+    3824855298,
+    282547938,
+    3824855296,
+    3824862964,
+    3824862963,
+    1692830813,
+    3824862962,
+    3824862961,
+    1692830788,
+    1692830772,
+    1692830765,
+    1692830757,
+    1692830750,
+    1692830737,
+    1692830711,
+    1692830696,
+    1692795954,
+    1692795930,
+    1692795899,
+    8605403800,
+    1692795880,
+    8154242071,
+    1692795849,
+    281145536
+  ],
+  "tags": {
+    "alt_name": "ซอยประชาอุทิศ 19",
+    "alt_name:en": "Soi Pracha Uthit 19",
+    "alt_name:th": "ซอยประชาอุทิศ 19",
+    "highway": "tertiary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed": "50",
+    "name": "ซอยรัชดานิเวศน์",
+    "name:th": "ซอยรัชดานิเวศน์",
+    "surface": "concrete",
+    "turn:lanes:forward": "left;through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 27279308,
+  "nodes": [
+    6364545195,
+    14005946943,
+    1693570944,
+    8918566621,
+    8118921962,
+    8313722135,
+    12147555491,
+    8118731075,
+    9009614133,
+    12147555533,
+    8118731074,
+    12147555535,
+    2179133824,
+    12147555538,
+    1693570836,
+    373456028
+  ],
+  "tags": {
+    "highway": "unclassified",
+    "name": "ถนนทหาร",
+    "name:en": "Thahan Road",
+    "name:etymology:wikidata": "Q8473",
+    "name:th": "ถนนทหาร",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32037736,
+  "nodes": [
+    312063216,
+    13403892934,
+    8530655007,
+    13403892924,
+    3545786445,
+    13403892923,
+    13403893207,
+    3544895520,
+    13403892949,
+    5917316307,
+    13403892952,
+    13403881469,
+    1656024347
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "6",
+    "maxspeed": "40",
+    "name": "ถนนพิษณุโลก",
+    "name:en": "Phitsanulok Road",
+    "name:etymology:wikidata": "Q2035565",
+    "name:th": "ถนนพิษณุโลก",
+    "oneway": "no",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 38000192,
+  "nodes": [
+    446286820,
+    7896201380,
+    12898934415,
+    7896201381,
+    2388468874
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนประดิพัทธ์",
+    "name:en": "Pradiphat Road",
+    "name:etymology:wikidata": "Q138675110",
+    "name:th": "ถนนประดิพัทธ์",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 38000452,
+  "nodes": [
+    446298085,
+    12809167056,
+    1693506615,
+    7998794995,
+    12806086360,
+    1693506525,
+    1801362571,
+    12806129300,
+    5910870079,
+    13516165979,
+    12806106992,
+    12806130880,
+    7888985588,
+    13516162436,
+    13516162426,
+    13516162437,
+    5910870081,
+    12806130931,
+    13672823098,
+    446298069
+  ],
+  "tags": {
+    "alt_name:en": "Setthasiri Road",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "ถนนเศรษฐศิริ",
+    "name:en": "Set Siri Road",
+    "name:th": "ถนนเศรษฐศิริ",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 90576997,
+  "nodes": [
+    496755241,
+    13206327912,
+    8230558556,
+    5137200893,
+    8621871670,
+    5942387443,
+    13206327884,
+    5137239632,
+    13206327877,
+    5942387480,
+    9604993473,
+    496755222,
+    9720197387,
+    13206327880,
+    8021717563,
+    496755223,
+    13206327829,
+    11445792228,
+    5224630076,
+    5224630090
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed": "50",
+    "name": "ถนนสมเด็จเจ้าพระยา",
+    "name:en": "Somdet Chao Phraya Road",
+    "name:etymology:wikidata": "Q310992;Q6636883;Q13022289;Q4918289",
+    "name:th": "ถนนสมเด็จเจ้าพระยา",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 123210542,
+  "nodes": [
+    13468717728,
+    269348004,
+    13071901820,
+    7170995945,
+    6239145087,
+    6239146929,
+    12998477994,
+    1693506103,
+    8038980277,
+    12998477978,
+    1683034183
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "foot": "no",
+    "highway": "secondary",
+    "name": "ถนนนครราชสีมา",
+    "name:en": "Nakhon Ratchasima Road",
+    "name:etymology:wikidata": "Q13022267",
+    "name:th": "ถนนนครราชสีมา",
+    "oneway": "yes",
+    "oneway:bus": "no",
+    "sidewalk": "both",
+    "sidewalk:both": "separate"
+  }
+},
+{
+  "type": "way",
+  "id": 124708336,
+  "nodes": [
+    373456028,
+    13404729130,
+    1998533232,
+    12715260834,
+    1693570772,
+    5898706373,
+    12723168090,
+    1693570757,
+    446286818,
+    10918431566,
+    10918431567,
+    10918431565,
+    1693570738,
+    446286819,
+    7976368605
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนทหาร",
+    "name:en": "Thahan Road",
+    "name:etymology:wikidata": "Q8473",
+    "name:th": "ถนนทหาร",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 156126121,
+  "nodes": [
+    61713461,
+    7907247465,
+    5886597866,
+    207177986,
+    7904593788,
+    13375988736
+  ],
+  "tags": {
+    "alt_name": "สุขุมวิท ซอย 3",
+    "alt_name:en": "Sukhumvit Soi 3",
+    "highway": "tertiary",
+    "lanes": "4",
+    "name": "ซอยสุขุมวิท 3",
+    "name:en": "Soi Sukhumvit 3",
+    "name:th": "ซอยสุขุมวิท 3",
+    "old_name": "ซอยนานาเหนือ",
+    "old_name:en": "Soi Nana Nuea",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "sidewalk:both": "separate"
+  }
+},
+{
+  "type": "way",
+  "id": 156261475,
+  "nodes": [
+    303606610,
+    3357642394
+  ],
+  "tags": {
+    "highway": "primary_link",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 156420646,
+  "nodes": [
+    13167186222,
+    9363512643,
+    13167186223,
+    6644138831,
+    6644138839,
+    9038489296,
+    13167186229,
+    9363512672,
+    13167186226
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "1",
+    "lanes:forward": "3",
+    "maxspeed": "40",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:etymology:wikidata": "Q1760011",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "name:zh": "石龍軍路",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 156420652,
+  "nodes": [
+    268267415,
+    8100455035,
+    8046476337,
+    268267416,
+    3812280081,
+    8049297482,
+    68163665,
+    8049297480,
+    268267429,
+    3995544249,
+    1693505914,
+    268267431,
+    268267434,
+    268267439
+  ],
+  "tags": {
+    "alt_name:en": "Thanon Rama V",
+    "alt_name:th": "ถนนพระรามที่ ๕;ถนนพระราม 5;พระราม 5",
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนพระรามที่ 5",
+    "name:en": "Rama V Road",
+    "name:etymology:wikidata": "Q158861",
+    "name:th": "ถนนพระรามที่ 5",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 156420657,
+  "nodes": [
+    446298085,
+    12969048549,
+    5910870738,
+    12806086006,
+    12837211559,
+    1693570121,
+    12806076457,
+    12806076438,
+    5910870782,
+    8918345527,
+    1693570174,
+    1693570195,
+    1801357678,
+    1693570269,
+    12969048623,
+    13186419032,
+    1693570315,
+    12898934287,
+    12898934288,
+    446298083,
+    12898934372,
+    12898886618,
+    12714040291,
+    12709653717,
+    12898934339,
+    12712817840,
+    12712817853,
+    12898934375,
+    1693570484,
+    7896201383,
+    7896201382,
+    12898934475,
+    6785944879,
+    446286820
+  ],
+  "tags": {
+    "alt_name": "ถนนพระรามที่ ๕;ถนนพระราม 5;พระราม 5",
+    "alt_name:en": "Thanon Rama V",
+    "alt_name:th": "ถนนพระรามที่ ๕;ถนนพระราม 5;พระราม 5",
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนพระรามที่ 5",
+    "name:en": "Rama V Road",
+    "name:etymology:wikidata": "Q158861",
+    "name:th": "ถนนพระรามที่ 5",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 156425691,
+  "nodes": [
+    255712525,
+    9363512618,
+    309201169,
+    309201188,
+    5919642367,
+    5919642374,
+    5919574377,
+    13167186220,
+    13167186218
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนตรีเพชร",
+    "name:en": "Tri Phet Road",
+    "name:etymology:wikidata": "Q6636847",
+    "name:th": "ถนนตรีเพชร",
+    "oneway": "yes",
+    "wikidata": "Q13015211",
+    "wikipedia": "en:Tri Phet Road"
+  }
+},
+{
+  "type": "way",
+  "id": 156725005,
+  "nodes": [
+    1708039284,
+    2179133838,
+    12147555543,
+    5898104525,
+    13404729125,
+    13404729126,
+    373456030,
+    8118921961,
+    373456028
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lane_markings": "yes",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนประชาราษฎร์สาย 1",
+    "name:en": "Pracha Rat Sai 1 Road",
+    "name:th": "ถนนประชาราษฎร์สาย 1",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157319675,
+  "nodes": [
+    13167186222,
+    13167186225,
+    9363512645,
+    6644138841,
+    5919642366,
+    1858743898,
+    5919642349,
+    280280871
+  ],
+  "tags": {
+    "highway": "unclassified",
+    "maxspeed": "40",
+    "name": "ถนนบูรพา",
+    "name:en": "Burapha Road",
+    "name:etymology:wikidata": "Q13020601",
+    "name:th": "ถนนบูรพา",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157801902,
+  "nodes": [
+    384914386,
+    1714885724,
+    8041269509,
+    4087023894
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "ถนนพญาไท",
+    "name:en": "Phaya Thai Road",
+    "name:fr": "rue Phaya Thai",
+    "name:ja": "パヤタイ通り",
+    "name:th": "ถนนพญาไท",
+    "name:zh": "披耶泰路",
+    "oneway": "yes",
+    "wikidata": "Q1015971",
+    "wikipedia": "th:ถนนพญาไท"
+  }
+},
+{
+  "type": "way",
+  "id": 175803653,
+  "nodes": [
+    373456028,
+    8118921960,
+    8118921957,
+    13404729131,
+    13208463441,
+    5898713139,
+    8918566623,
+    12898670955,
+    1693570696,
+    8768674968,
+    6647160909,
+    12898719220,
+    1693570640,
+    5377520832,
+    1693507227,
+    13342127077
+  ],
+  "tags": {
+    "alt_name:en": "Samsen Road",
+    "alt_name:th-Latn": "Thanon Samsen",
+    "hazard": "school_zone",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "30",
+    "name": "ถนนสามเสน",
+    "name:en": "Sam Sen Road",
+    "name:th": "ถนนสามเสน",
+    "name:th-Latn": "Thanon Sam Sen",
+    "name:tr": "Samsen Caddesi",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175803686,
+  "nodes": [
+    1677796112,
+    12809172629,
+    1693507003,
+    12809172668,
+    5901458000,
+    5901458006,
+    8027107956,
+    446298019
+  ],
+  "tags": {
+    "hazard": "school_zone",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "ถนนอำนวยสงคราม",
+    "name:en": "Amnuay Songkhram Road",
+    "name:etymology:wikidata": "Q138683660",
+    "name:th": "ถนนอำนวยสงคราม",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178329972,
+  "nodes": [
+    13167186226,
+    9363512673,
+    7962723828,
+    6102514751
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:etymology:wikidata": "Q1760011",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178353994,
+  "nodes": [
+    280280873,
+    8099245091,
+    7930306217,
+    280280872,
+    9363512644,
+    13167186222
+  ],
+  "tags": {
+    "highway": "unclassified",
+    "maxspeed": "40",
+    "name": "ถนนอุณากรรณ",
+    "name:en": "Unakan Road",
+    "name:etymology:wikidata": "Q13017886",
+    "name:th": "ถนนอุณากรรณ",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 178354016,
+  "nodes": [
+    255712381,
+    1858743896,
+    11930996755,
+    9709016382,
+    12182704389,
+    5933132659,
+    13167186228,
+    9363512675,
+    13167186226
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "40",
+    "name": "ถนนมหาไชย",
+    "name:en": "Maha Chai Road",
+    "name:etymology:wikidata": "Q13013055",
+    "name:th": "ถนนมหาไชย",
+    "oneway": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 230331269,
+  "nodes": [
+    446286820,
+    12898934412,
+    2388468881
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนเตชะวนิช",
+    "name:en": "Techawanit Road",
+    "name:etymology:wikidata": "Q16305548",
+    "name:th": "ถนนเตชะวนิช",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 236824700,
+  "nodes": [
+    309201192,
+    9363512630,
+    13167186218
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "5",
+    "lanes:backward": "2",
+    "lanes:forward": "3",
+    "maxspeed": "40",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:etymology:wikidata": "Q1760011",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 257314035,
+  "nodes": [
+    1693436699,
+    6652417488,
+    14105152955,
+    9363513114,
+    1699503382
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "highway": "primary",
+    "lanes": "4",
+    "lanes:backward": "1",
+    "lanes:forward": "3",
+    "maxspeed": "50",
+    "name": "ถนนนครสวรรค์",
+    "name:en": "Nakhon Sawan Road",
+    "name:etymology:wikidata": "Q461377",
+    "name:th": "ถนนนครสวรรค์",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through;left|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 300835626,
+  "nodes": [
+    7265755159,
+    7520826877,
+    7520826876,
+    7520826875,
+    5895471604,
+    5895471615,
+    5895471617,
+    1701648295,
+    1701648250,
+    7520874141,
+    7520826874,
+    5895571724,
+    11531737546,
+    11531737545,
+    5895571792,
+    13788915246
+  ],
+  "tags": {
+    "divider": "double_solic_yellow",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "ถนนประชาราษฎร์สาย 2",
+    "name:en": "Pracha Rat Sai 2 Road",
+    "name:th": "ถนนประชาราษฎร์สาย 2",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 453692575,
+  "nodes": [
+    4503956687,
+    61713461
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "7",
+    "lanes:backward": "4",
+    "lanes:forward": "3",
+    "maxspeed": "60",
+    "name": "ถนนเพชรบุรี",
+    "name:en": "Phetchaburi Road",
+    "name:etymology:wikidata": "Q538919",
+    "name:th": "ถนนเพชรบุรี",
+    "turn:lanes:forward": "through|right|right",
+    "wikidata": "Q11337414",
+    "wikipedia": "th:ถนนเพชรบุรี"
+  }
+},
+{
+  "type": "way",
+  "id": 453692981,
+  "nodes": [
+    61713461,
+    207177997,
+    4503981799
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "ถนนเพชรบุรี",
+    "name:en": "Phetchaburi Road",
+    "name:etymology:wikidata": "Q538919",
+    "name:th": "ถนนเพชรบุรี",
+    "wikidata": "Q11337414",
+    "wikipedia": "th:ถนนเพชรบุรี"
+  }
+},
+{
+  "type": "way",
+  "id": 464847363,
+  "nodes": [
+    4599130224,
+    14143701421,
+    14143701418,
+    7227011821,
+    7919890097,
+    7919890091,
+    1686419467,
+    6461031163,
+    7227070718,
+    7941150250,
+    7941150244,
+    1686419662,
+    7941150240,
+    7135580607,
+    7798669331
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "ถนนพหลโยธิน",
+    "name:en": "Phahon Yothin Road",
+    "name:etymology:wikidata": "Q301290",
+    "name:th": "ถนนพหลโยธิน",
+    "oneway": "yes",
+    "ref": "1",
+    "sidewalk": "left"
+  }
+},
+{
+  "type": "way",
+  "id": 464847368,
+  "nodes": [
+    4599130220,
+    4599130224
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "50",
+    "name": "ถนนประดิพัทธ์",
+    "name:en": "Pradiphat Road",
+    "name:etymology:wikidata": "Q138675110",
+    "name:th": "ถนนประดิพัทธ์",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 464847370,
+  "nodes": [
+    4599130224,
+    4599130225
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxheight": "5",
+    "maxspeed": "50",
+    "name": "ถนนประดิพัทธ์",
+    "name:en": "Pradiphat Road",
+    "name:etymology:wikidata": "Q138675110",
+    "name:th": "ถนนประดิพัทธ์",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 480611723,
+  "nodes": [
+    281145536,
+    7936557187
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "60",
+    "name": "ถนนประชาอุทิศ",
+    "name:en": "Pracha Uthit Road",
+    "name:th": "ถนนประชาอุทิศ",
+    "source": "bing;sign"
+  }
+},
+{
+  "type": "way",
+  "id": 481010901,
+  "nodes": [
+    1714885728,
+    4087023894
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "ถนนเพชรบุรี",
+    "name:en": "Phetchaburi Road",
+    "name:etymology:wikidata": "Q538919",
+    "name:th": "ถนนเพชรบุรี",
+    "oneway": "yes",
+    "wikidata": "Q11337414",
+    "wikipedia": "th:ถนนเพชรบุรี"
+  }
+},
+{
+  "type": "way",
+  "id": 481527561,
+  "nodes": [
+    4087023894,
+    1714885731,
+    268242845
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "ถนนเพชรบุรี",
+    "name:en": "Phetchaburi Road",
+    "name:etymology:wikidata": "Q538919",
+    "name:th": "ถนนเพชรบุรี",
+    "oneway": "yes",
+    "wikidata": "Q11337414",
+    "wikipedia": "th:ถนนเพชรบุรี"
+  }
+},
+{
+  "type": "way",
+  "id": 481527562,
+  "nodes": [
+    4087023894,
+    4513866826
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "ถนนพญาไท",
+    "name:en": "Phaya Thai Road",
+    "name:fr": "rue Phaya Thai",
+    "name:ja": "パヤタイ通り",
+    "name:th": "ถนนพญาไท",
+    "name:zh": "披耶泰路",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "wikidata": "Q1015971",
+    "wikipedia": "th:ถนนพญาไท"
+  }
+},
+{
+  "type": "way",
+  "id": 481569795,
+  "nodes": [
+    61713461,
+    5886271432,
+    4504059967
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "ถนนนิคมมักกะสัน",
+    "name:en": "Nikhom Makkasan Road",
+    "name:th": "ถนนนิคมมักกะสัน",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 623966120,
+  "nodes": [
+    7265755159,
+    1701467687,
+    4744307395,
+    1708119265,
+    1701467750,
+    5895264354,
+    7265631252,
+    5895264333
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนประชาราษฎร์สาย 1",
+    "name:en": "Pracha Rat Sai 1 Road",
+    "name:th": "ถนนประชาราษฎร์สาย 1",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 626323544,
+  "nodes": [
+    1387220957,
+    8049297460,
+    7168558348,
+    1693505709,
+    1693505715,
+    1743126098,
+    1693505737,
+    1693505746,
+    13080879836,
+    8049297469,
+    8530627763,
+    1693505778,
+    13080766872,
+    8049297472,
+    2122149549,
+    8921796275,
+    5915020727,
+    8123680718,
+    9645015217,
+    8049297477,
+    68163665,
+    13080880111,
+    5913013383
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนราชวิถี",
+    "name:en": "Ratchawithi Road",
+    "name:th": "ถนนราชวิถี",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 626789159,
+  "nodes": [
+    1699503382,
+    9363513112,
+    5919974437,
+    1693436750,
+    6654686851,
+    11384216258,
+    5919974449,
+    11384227997,
+    6654686847,
+    1693436775,
+    1693436776,
+    6654686848,
+    11384227994,
+    14105152903,
+    5919974467,
+    11252090765,
+    11384130040,
+    9363513071,
+    280387894
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "highway": "primary",
+    "lanes": "4",
+    "lanes:backward": "1",
+    "lanes:forward": "3",
+    "maxspeed": "50",
+    "name": "ถนนนครสวรรค์",
+    "name:en": "Nakhon Sawan Road",
+    "name:etymology:wikidata": "Q461377",
+    "name:th": "ถนนนครสวรรค์",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 628452270,
+  "nodes": [
+    13167186226,
+    13167186227,
+    6644138836,
+    5933132665,
+    8609628261,
+    8609628262,
+    5933132619
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "40",
+    "name": "ถนนมหาไชย",
+    "name:en": "Maha Chai Road",
+    "name:etymology:wikidata": "Q13013055",
+    "name:th": "ถนนมหาไชย",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 658638030,
+  "nodes": [
+    7919356357,
+    4599130224
+  ],
+  "tags": {
+    "highway": "primary",
+    "lane_markings": "no",
+    "maxspeed": "60",
+    "name": "ถนนพหลโยธิน",
+    "name:en": "Phahon Yothin Road",
+    "name:etymology:wikidata": "Q301290",
+    "name:th": "ถนนพหลโยธิน",
+    "oneway": "yes",
+    "ref": "1",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 658808079,
+  "nodes": [
+    280388167,
+    7888930692,
+    3544895524,
+    14105077027,
+    1971703532,
+    14105077022,
+    312063216
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "50",
+    "name": "ถนนนครราชสีมา",
+    "name:en": "Nakhon Ratchasima Road",
+    "name:etymology:wikidata": "Q13022267",
+    "name:th": "ถนนนครราชสีมา",
+    "oneway": "no",
+    "oneway:bus": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 723512208,
+  "nodes": [
+    6785944882,
+    12898934398,
+    446286820
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนทหาร",
+    "name:en": "Thahan Road",
+    "name:etymology:wikidata": "Q8473",
+    "name:th": "ถนนทหาร",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 778495269,
+  "nodes": [
+    1689468562,
+    7265755162,
+    7265755161,
+    7265755163,
+    7265755158,
+    7265755164,
+    7265755146,
+    7265755160,
+    10017304970,
+    7265755159
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "ถนนประชาราษฎร์สาย 2",
+    "name:en": "Pracha Rat Sai 2 Road",
+    "name:th": "ถนนประชาราษฎร์สาย 2",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 864207009,
+  "nodes": [
+    68182368,
+    268267467,
+    1863557632
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนนครไชยศรี",
+    "name:en": "Nakhon Chai Si Road",
+    "name:etymology:wikidata": "Q13017835",
+    "name:th": "ถนนนครไชยศรี",
+    "oneway": "no",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 868929306,
+  "nodes": [
+    13167186218,
+    9363512631,
+    13338106650,
+    280280757,
+    10224710555,
+    5919575347,
+    5919642330,
+    12172583689,
+    7328983866
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "ถนนตีทอง",
+    "name:en": "Ti Thong Road",
+    "name:etymology:wikidata": "Q19944901",
+    "name:th": "ถนนตีทอง",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt",
+    "wikidata": "Q13015217"
+  }
+},
+{
+  "type": "way",
+  "id": 892578002,
+  "nodes": [
+    1114715411,
+    13607888899,
+    5950464157,
+    1116379393,
+    1116379390
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "30",
+    "name": "ถนนเทอดไท",
+    "name:en": "Thoet Thai Road",
+    "name:th": "ถนนเทอดไท",
+    "oneway": "no",
+    "sidewalk": "both",
+    "sidewalk:both": "separate"
+  }
+},
+{
+  "type": "way",
+  "id": 1040139462,
+  "nodes": [
+    5248475541,
+    5319457025,
+    14105077024,
+    312063216
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "6",
+    "maxspeed": "40",
+    "name": "ถนนพิษณุโลก",
+    "name:en": "Phitsanulok Road",
+    "name:etymology:wikidata": "Q2035565",
+    "name:th": "ถนนพิษณุโลก",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1041412596,
+  "nodes": [
+    13167186218,
+    9363512632,
+    13167186219,
+    309201195,
+    9038489295,
+    5919642368,
+    13167186224,
+    9363512642,
+    13167186222
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "1",
+    "lanes:forward": "3",
+    "maxspeed": "40",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:etymology:wikidata": "Q1760011",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1058834755,
+  "nodes": [
+    12803890711,
+    5901177391,
+    1693507008,
+    12803890713,
+    5901177393,
+    5901177184,
+    12570743285,
+    1693506972,
+    12805813881,
+    12797947954,
+    1693506947,
+    6654471625,
+    12797947949,
+    8027116798,
+    373456021
+  ],
+  "tags": {
+    "alt_name:en": "Samsen Road",
+    "alt_name:th-Latn": "Thanon Samsen",
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนสามเสน",
+    "name:en": "Sam Sen Road",
+    "name:th": "ถนนสามเสน",
+    "name:th-Latn": "Thanon Sam Sen",
+    "name:tr": "Samsen Caddesi",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1058834757,
+  "nodes": [
+    373456021,
+    9729323753,
+    8027116800,
+    1693506839,
+    1693506810,
+    8064187033,
+    3545624054
+  ],
+  "tags": {
+    "alt_name:en": "Samsen Road",
+    "alt_name:th-Latn": "Thanon Samsen",
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนสามเสน",
+    "name:en": "Sam Sen Road",
+    "name:th": "ถนนสามเสน",
+    "name:th-Latn": "Thanon Sam Sen",
+    "name:tr": "Samsen Caddesi",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1059243710,
+  "nodes": [
+    373456002,
+    7265755159
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lane_markings": "yes",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนประชาราษฎร์สาย 1",
+    "name:en": "Pracha Rat Sai 1 Road",
+    "name:th": "ถนนประชาราษฎร์สาย 1",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1067863876,
+  "nodes": [
+    5153301764,
+    13617712013,
+    13617712016,
+    5153301766,
+    5153301799,
+    5153301769,
+    8034500468,
+    5153301774,
+    13617712019,
+    5136990531,
+    5153301782,
+    5136990553,
+    5153301783,
+    13617712022,
+    255712613,
+    13206327908,
+    496755241
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed": "50",
+    "name": "ถนนสมเด็จเจ้าพระยา",
+    "name:en": "Somdet Chao Phraya Road",
+    "name:etymology:wikidata": "Q310992;Q6636883;Q13022289;Q4918289",
+    "name:th": "ถนนสมเด็จเจ้าพระยา",
+    "surface": "asphalt",
+    "wikidata": "Q15979751",
+    "wikipedia": "th:ถนนสมเด็จเจ้าพระยา"
+  }
+},
+{
+  "type": "way",
+  "id": 1067863877,
+  "nodes": [
+    496755241,
+    7006137265
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "ถนนท่าดินแดง",
+    "name:en": "Tha Din Daeng Road",
+    "name:th": "ถนนท่าดินแดง",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1106110685,
+  "nodes": [
+    13468743807,
+    12969048604,
+    1801295980,
+    3555814948,
+    1693506293,
+    1801296853,
+    5910816046,
+    1801362568,
+    5910816049,
+    1693506401,
+    7998761809,
+    1693506439,
+    7998761816,
+    12805877854,
+    3555814962,
+    1693506500,
+    1693506553,
+    12969048560,
+    446298085
+  ],
+  "tags": {
+    "alt_name:en": "Thanon Rama V",
+    "alt_name:th": "ถนนพระรามที่ ๕;ถนนพระราม 5;พระราม 5",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "ถนนพระรามที่ 5",
+    "name:en": "Rama V Road",
+    "name:etymology:wikidata": "Q158861",
+    "name:th": "ถนนพระรามที่ 5",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1106110686,
+  "nodes": [
+    1863557640,
+    12969048546,
+    446298085
+  ],
+  "tags": {
+    "alt_name:en": "Setthasiri Road",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "ถนนอำนวยสงคราม",
+    "name:en": "Amnuay Songkhram Road",
+    "name:etymology:wikidata": "Q138683660",
+    "name:th": "ถนนอำนวยสงคราม",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124685480,
+  "nodes": [
+    373456021,
+    1693506877,
+    1677796104,
+    10284826074
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "ถนนนครไชยศรี",
+    "name:en": "Nakhon Chai Si Road",
+    "name:etymology:wikidata": "Q13017835",
+    "name:th": "ถนนนครไชยศรี",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1125663615,
+  "nodes": [
+    4504059975,
+    5886271431,
+    8202146584,
+    61713461
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "ถนนนิคมมักกะสัน",
+    "name:en": "Nikhom Makkasan Road",
+    "name:th": "ถนนนิคมมักกะสัน",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1152574346,
+  "nodes": [
+    3495383061,
+    13716355865,
+    12392876997,
+    6546892496,
+    12218993784,
+    12218993904,
+    12218993798
+  ],
+  "tags": {
+    "highway": "service",
+    "name": "ซอยเจริญกรุง 70",
+    "name:en": "Soi Charoen Krung 70",
+    "name:th": "ซอยเจริญกรุง 70",
+    "oneway": "yes",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1185646420,
+  "nodes": [
+    5877312204,
+    13716355878,
+    3495383061
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนจันทน์",
+    "name:en": "Chan Road",
+    "name:th": "ถนนจันทน์",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1185646421,
+  "nodes": [
+    3495383061,
+    6512781798
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "oneway": "no",
+    "sidewalk:both": "separate"
+  }
+},
+{
+  "type": "way",
+  "id": 1185646422,
+  "nodes": [
+    6512781799,
+    3495383061
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "ถนนเจริญกรุง",
+    "name:en": "Charoen Krung Road",
+    "name:ja": "チャルンクルン通り",
+    "name:th": "ถนนเจริญกรุง",
+    "oneway": "no",
+    "sidewalk:both": "separate"
+  }
+},
+{
+  "type": "way",
+  "id": 1195358673,
+  "nodes": [
+    303606610,
+    13251206850,
+    1686028701,
+    12728264940,
+    10820727535,
+    12526730852,
+    3414250833
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "ถนนสุขุมวิท",
+    "name:en": "Sukhumvit Road",
+    "name:etymology:wikidata": "Q30324727",
+    "name:th": "ถนนสุขุมวิท",
+    "oneway": "yes",
+    "smoothness": "good",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1312215696,
+  "nodes": [
+    12146023907,
+    12146023924,
+    7170858003,
+    12146023906,
+    446298019
+  ],
+  "tags": {
+    "hazard": "school_zone",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "ถนนเขียวไข่กา",
+    "name:en": "Khiaokhaika Road",
+    "name:th": "ถนนเขียวไข่กา",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1312215717,
+  "nodes": [
+    1693506984,
+    12146024012,
+    12146024013,
+    12146024014,
+    12806175485,
+    12146024015,
+    1693506950,
+    8302329091,
+    12146024016,
+    1693506936,
+    12146024056,
+    5910801445,
+    12146024066,
+    12146024017,
+    5910801443,
+    12146024018,
+    373456021
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "ถนนนครไชยศรี",
+    "name:en": "Nakhon Chai Si Road",
+    "name:etymology:wikidata": "Q13017835",
+    "name:th": "ถนนนครไชยศรี",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1352319180,
+  "nodes": [
+    1693436789,
+    7907324958,
+    5919974442,
+    5919974446,
+    14105152957,
+    1699503382
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "40",
+    "name": "ถนนจักรพรรดิพงษ์",
+    "name:en": "Chakkraphatdiphong Road",
+    "name:etymology:wikidata": "Q6636816",
+    "name:th": "ถนนจักรพรรดิพงษ์",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1352962129,
+  "nodes": [
+    11703399633,
+    303606610
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "ถนนสุขุมวิท",
+    "name:en": "Sukhumvit Road",
+    "name:etymology:wikidata": "Q30324727",
+    "name:ja": "スクムウィット通り",
+    "name:th": "ถนนสุขุมวิท",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1382955984,
+  "nodes": [
+    446298019,
+    7170858001,
+    12797947805,
+    1693507044,
+    12803890719,
+    5901177389,
+    12146023977,
+    1693507025,
+    12803890711
+  ],
+  "tags": {
+    "alt_name:en": "Samsen Road",
+    "alt_name:th-Latn": "Thanon Samsen",
+    "hazard": "school_zone",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "30",
+    "name": "ถนนสามเสน",
+    "name:en": "Sam Sen Road",
+    "name:th": "ถนนสามเสน",
+    "name:th-Latn": "Thanon Sam Sen",
+    "name:tr": "Samsen Caddesi",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1412159205,
+  "nodes": [
+    1693506173,
+    7998761796,
+    5913002156,
+    1801366992,
+    12969048609,
+    1677796097,
+    13468743807
+  ],
+  "tags": {
+    "alt_name:en": "Thanon Rama V",
+    "alt_name:th": "ถนนพระรามที่ ๕;ถนนพระราม 5;พระราม 5",
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "ถนนพระรามที่ 5",
+    "name:en": "Rama V Road",
+    "name:etymology:wikidata": "Q158861",
+    "name:th": "ถนนพระรามที่ 5",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1415146684,
+  "nodes": [
+    1867131751,
+    3286552858,
+    12520038414,
+    1686126976,
+    3286552854,
+    3286552848,
+    12222035982,
+    303606622,
+    1863994941,
+    3286552845,
+    303606621,
+    5055072436,
+    1686028716,
+    12657767085,
+    12657767087,
+    12199139046,
+    303606620,
+    11703399639,
+    12199139033,
+    1863994940,
+    11703399638,
+    10815802254,
+    1686028710,
+    3286552809,
+    303606618,
+    12199139031,
+    10578141552,
+    1863994936,
+    1863994934,
+    4475356248,
+    12828713253,
+    4475385067,
+    12512247826,
+    303606610
+  ],
+  "tags": {
+    "alt_name": "ถนนทองหล่อ;สุขุมวิท ซอย 55",
+    "alt_name:en": "Thong Lo Road;Thonglor Road;Sukhumvit Soi 55",
+    "alt_name:th": "ถนนทองหล่อ;สุขุมวิท ซอย 55",
+    "highway": "secondary",
+    "lanes": "6",
+    "lit": "yes",
+    "maxspeed": "50",
+    "maxspeed:type": "TH:urban",
+    "name": "ซอยสุขุมวิท 55",
+    "name:en": "Soi Sukhumvit 55",
+    "name:etymology:wikidata": "Q13015416",
+    "name:th": "ซอยสุขุมวิท 55",
+    "old_name": "ซอยทองหล่อ",
+    "old_name:en": "Soi Thong Lo",
+    "old_name:th": "ซอยทองหล่อ",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "wikidata": "Q1016079",
+    "wikipedia": "th:ถนนทองหล่อ"
+  }
+},
+{
+  "type": "way",
+  "id": 1433297528,
+  "nodes": [
+    281145536,
+    12328985742,
+    13172894960
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "5",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed": "40",
+    "name": "ถนนเทียมร่วมมิตร",
+    "name:en": "Thiam Ruam Mit Road",
+    "name:th": "ถนนเทียมร่วมมิตร",
+    "oneway": "no",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1433297530,
+  "nodes": [
+    3857469231,
+    281145536
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed": "60",
+    "name": "ถนนประชาอุทิศ",
+    "name:en": "Pracha Uthit Road",
+    "name:th": "ถนนประชาอุทิศ",
+    "source": "bing;sign",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left;through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1454866509,
+  "nodes": [
+    13342127076,
+    373456024,
+    1693507166,
+    10757978289,
+    1693507131,
+    12146020552,
+    1677796116,
+    1693507109,
+    5901177168,
+    446298019
+  ],
+  "tags": {
+    "alt_name:en": "Samsen Road",
+    "alt_name:th-Latn": "Thanon Samsen",
+    "hazard": "school_zone",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "30",
+    "name": "ถนนสามเสน",
+    "name:en": "Sam Sen Road",
+    "name:th": "ถนนสามเสน",
+    "name:th-Latn": "Thanon Sam Sen",
+    "name:tr": "Samsen Caddesi",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1484087830,
+  "nodes": [
+    1116377783,
+    8128118376,
+    1114715396,
+    5950579093,
+    13607888894,
+    1114715395,
+    1114715411,
+    13607888897,
+    1114715430,
+    1114715385,
+    1114715412,
+    5950578770,
+    5950532427,
+    1157481790,
+    5950532454,
+    1157482290,
+    1157502368,
+    1157482625,
+    1114715422,
+    8128131530,
+    1114715443,
+    5950532453,
+    1114715416,
+    8128118393,
+    1114715433,
+    8128118389,
+    8128117858,
+    1157495596,
+    8128117850,
+    1157494536,
+    5950532438,
+    1157477484,
+    5950532443,
+    1114715400
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "ถนนบางแค",
+    "name:en": "Bang Khae Road",
+    "name:th": "ถนนบางแค",
+    "oneway": "no",
+    "sidewalk": "both",
+    "sidewalk:both": "separate",
+    "surface": "concrete"
+  }
+}
+
+  ]
+}

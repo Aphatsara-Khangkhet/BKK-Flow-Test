@@ -1,0 +1,436 @@
+{
+  "source": {
+    "source_filename": "bangkok_traffic_2560_Present (NotFinal) (1).xlsx",
+    "source_sha256": "6e1b556f353c66fec5c8a664f3e1e5b5e52e5a756f75c2ae28562c5c0fa6118b",
+    "snapshot": "data\\raw\\traffic_6e1b556f353c.xlsx",
+    "sheet": "traffic_data",
+    "audited_at": "2026-09-13T12:05:19.297060+00:00",
+    "rows": 17005,
+    "columns": 18,
+    "period_counts": {
+      "หลังโควิด": 8619,
+      "ก่อนโควิด": 4917,
+      "โควิด": 3469
+    },
+    "unknown_period_rows": 0,
+    "zero_assumed_cells": 2288,
+    "zero_assumed_rows": 1509,
+    "numeric_unresolved_rows": 0,
+    "numeric_fractional_rows": 6,
+    "numeric_negative_rows": 0,
+    "exact_repeat_excess": 59,
+    "repeated_survey_key_rows": 170,
+    "repeated_report_key_rows": 170,
+    "report_date_unparseable_rows": 0,
+    "survey_date_missing": 0,
+    "survey_date_unparsed_nonblank": 0,
+    "survey_date_min": "2017-03-01 00:00:00",
+    "survey_date_max": "2026-05-29 00:00:00",
+    "candidate_rows": 16829,
+    "matching": [
+      {
+        "design": "raw_location",
+        "groups": 357,
+        "locations": 357,
+        "intersections": 177,
+        "rows": 5072,
+        "before_rows": 1587,
+        "during_rows": 1295,
+        "after_rows": 2190
+      },
+      {
+        "design": "candidate_location",
+        "groups": 357,
+        "locations": 357,
+        "intersections": 177,
+        "rows": 5047,
+        "before_rows": 1587,
+        "during_rows": 1289,
+        "after_rows": 2171
+      },
+      {
+        "design": "candidate_location_time",
+        "groups": 623,
+        "locations": 352,
+        "intersections": 175,
+        "rows": 2612,
+        "before_rows": 902,
+        "during_rows": 733,
+        "after_rows": 977
+      },
+      {
+        "design": "candidate_report_month_time",
+        "groups": 15,
+        "locations": 11,
+        "intersections": 6,
+        "rows": 47,
+        "before_rows": 17,
+        "during_rows": 15,
+        "after_rows": 15
+      },
+      {
+        "design": "candidate_report_quarter_time",
+        "groups": 70,
+        "locations": 52,
+        "intersections": 29,
+        "rows": 226,
+        "before_rows": 81,
+        "during_rows": 70,
+        "after_rows": 75
+      },
+      {
+        "design": "candidate_survey_month_time",
+        "groups": 15,
+        "locations": 11,
+        "intersections": 6,
+        "rows": 47,
+        "before_rows": 17,
+        "during_rows": 15,
+        "after_rows": 15
+      }
+    ],
+    "year_coverage": [
+      {
+        "report_year": 2017,
+        "rows": 1422,
+        "months_present": "3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 476,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2018,
+        "rows": 1671,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 531,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2019,
+        "rows": 1824,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 611,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2020,
+        "rows": 1333,
+        "months_present": "1,2,3,4,5,7,8,10,11,12",
+        "months_missing_within_scope": "6,9",
+        "locations": 420,
+        "assumed_zero_rows": 560
+      },
+      {
+        "report_year": 2021,
+        "rows": 2136,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 677,
+        "assumed_zero_rows": 549
+      },
+      {
+        "report_year": 2022,
+        "rows": 2048,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 671,
+        "assumed_zero_rows": 400
+      },
+      {
+        "report_year": 2023,
+        "rows": 1923,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 627,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2024,
+        "rows": 1875,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 618,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2025,
+        "rows": 2062,
+        "months_present": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "months_missing_within_scope": "",
+        "locations": 657,
+        "assumed_zero_rows": 0
+      },
+      {
+        "report_year": 2026,
+        "rows": 711,
+        "months_present": "1,2,3,4,5",
+        "months_missing_within_scope": "",
+        "locations": 233,
+        "assumed_zero_rows": 0
+      }
+    ],
+    "numeric_profile": [
+      {
+        "field": "passenger_car",
+        "blank": 0,
+        "dash": 31,
+        "zero_assumed": 31,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 1
+      },
+      {
+        "field": "pickup_van",
+        "blank": 0,
+        "dash": 33,
+        "zero_assumed": 33,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 3
+      },
+      {
+        "field": "large_bus",
+        "blank": 0,
+        "dash": 428,
+        "zero_assumed": 428,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 2
+      },
+      {
+        "field": "small_bus",
+        "blank": 0,
+        "dash": 1458,
+        "zero_assumed": 1458,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 0
+      },
+      {
+        "field": "truck",
+        "blank": 0,
+        "dash": 118,
+        "zero_assumed": 118,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 0
+      },
+      {
+        "field": "tuk_tuk",
+        "blank": 0,
+        "dash": 220,
+        "zero_assumed": 220,
+        "unresolved": 0,
+        "negative": 0,
+        "fractional": 0
+      }
+    ]
+  },
+  "results": {
+    "same_location_time": {
+      "rows": 2612,
+      "units": 623,
+      "locations": 352,
+      "positive_baseline_units": 623,
+      "zero_baseline_units": 0,
+      "row_counts": {
+        "After": 977,
+        "Before": 902,
+        "During": 733
+      },
+      "index_medians": {
+        "Before": 100.0,
+        "During": 91.58761857214178,
+        "After": 90.3570746610655
+      },
+      "index_means": {
+        "Before": 100.0,
+        "During": 93.65046028438013,
+        "After": 97.67756070108885
+      },
+      "vph_medians": {
+        "Before": 1498.7142857142858,
+        "During": 1395.5714285714287,
+        "After": 1357.0
+      },
+      "after_at_or_above_before_pct": 35.313001605136435,
+      "report_year_counts": {
+        "2017": 279,
+        "2018": 311,
+        "2019": 312,
+        "2020": 345,
+        "2021": 388,
+        "2022": 422,
+        "2023": 203,
+        "2024": 110,
+        "2025": 172,
+        "2026": 70
+      }
+    },
+    "same_report_quarter": {
+      "rows": 226,
+      "units": 70,
+      "locations": 52,
+      "positive_baseline_units": 70,
+      "zero_baseline_units": 0,
+      "row_counts": {
+        "Before": 81,
+        "After": 75,
+        "During": 70
+      },
+      "index_medians": {
+        "Before": 100.0,
+        "During": 87.6772901506339,
+        "After": 87.82030530932076
+      },
+      "index_means": {
+        "Before": 100.0,
+        "During": 86.92035997800184,
+        "After": 92.64108932280733
+      },
+      "vph_medians": {
+        "Before": 2402.25,
+        "During": 1935.9642857142858,
+        "After": 1997.75
+      },
+      "after_at_or_above_before_pct": 34.285714285714285,
+      "report_year_counts": {
+        "2017": 27,
+        "2018": 25,
+        "2019": 29,
+        "2020": 31,
+        "2021": 39,
+        "2022": 30,
+        "2023": 14,
+        "2024": 8,
+        "2025": 17,
+        "2026": 6
+      }
+    },
+    "same_report_month": {
+      "rows": 47,
+      "units": 15,
+      "locations": 11,
+      "positive_baseline_units": 15,
+      "zero_baseline_units": 0,
+      "row_counts": {
+        "Before": 17,
+        "During": 15,
+        "After": 15
+      },
+      "index_medians": {
+        "Before": 100.0,
+        "During": 85.4908145432846,
+        "After": 96.13703203242986
+      },
+      "index_means": {
+        "Before": 100.0,
+        "During": 81.53825006379093,
+        "After": 94.071613311982
+      },
+      "vph_medians": {
+        "Before": 4027.0,
+        "During": 3495.5,
+        "After": 3512.0
+      },
+      "after_at_or_above_before_pct": 46.666666666666664,
+      "report_year_counts": {
+        "2017": 2,
+        "2018": 12,
+        "2019": 3,
+        "2020": 6,
+        "2021": 9,
+        "2022": 6,
+        "2023": 2,
+        "2024": 1,
+        "2025": 4,
+        "2026": 2
+      }
+    },
+    "same_survey_month": {
+      "rows": 47,
+      "units": 15,
+      "locations": 11,
+      "positive_baseline_units": 15,
+      "zero_baseline_units": 0,
+      "row_counts": {
+        "Before": 17,
+        "During": 15,
+        "After": 15
+      },
+      "index_medians": {
+        "Before": 100.0,
+        "During": 85.4908145432846,
+        "After": 96.13703203242986
+      },
+      "index_means": {
+        "Before": 100.0,
+        "During": 81.53825006379093,
+        "After": 94.071613311982
+      },
+      "vph_medians": {
+        "Before": 4027.0,
+        "During": 3495.5,
+        "After": 3512.0
+      },
+      "after_at_or_above_before_pct": 46.666666666666664,
+      "report_year_counts": {
+        "2017": 2,
+        "2018": 12,
+        "2019": 3,
+        "2020": 6,
+        "2021": 9,
+        "2022": 6,
+        "2023": 2,
+        "2024": 1,
+        "2025": 4,
+        "2026": 2
+      }
+    },
+    "coverage": {
+      "balanced_all_10_report_year_units": 0,
+      "year_2026_rows": 70,
+      "year_2026_locations": 67,
+      "main_assumed_zero_rows": 286,
+      "mix_units": 621,
+      "all_zero_rows_excluded_from_mix": 2
+    }
+  },
+  "extended": {
+    "after_at_or_above_100_pct": 35.313001605136435,
+    "paired_am_pm": {
+      "locations": 133,
+      "median_after_pm_minus_am_points": 3.419280317724187,
+      "median_during_pm_minus_am_points": 3.705515302691566,
+      "median_indices": {
+        "07:00-09:00": {
+          "Before": 100.0,
+          "During": 91.69435215946844,
+          "After": 93.27678290920515
+        },
+        "16:00-19:00": {
+          "Before": 100.0,
+          "During": 91.98343079922027,
+          "After": 94.0351364488577
+        }
+      }
+    },
+    "ranking_eligible_locations": 17,
+    "share_change_pp": {
+      "tuk_tuk": -0.8038642708124137,
+      "pickup_van": -0.5935859076919421,
+      "large_bus": -0.3199516309368864,
+      "small_bus": -0.14513815089697474,
+      "truck": 0.27145826202338563,
+      "passenger_car": 1.591081698314838
+    },
+    "year2026": {
+      "units": 6,
+      "rows": 12,
+      "median_paired_index": 54.66436202825574,
+      "locations": 6
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿figure,sample
+1,623 same-time units; 70 same-report-quarter units
+2,"{'07:00-09:00': 334, '09:00-16:00': 156, '16:00-19:00': 133}"
+3,623 units; 2612 rows
+4,621 positive-total complete mix units
+5,17005 raw source rows; counts per report month
+6,623 positive-baseline units
+7,133 paired AM/PM locations
+8,10 displayed / 17 eligible locations; individual period n in case table
+9,621 mix units
+10,6 report-month matched units; 12 observations

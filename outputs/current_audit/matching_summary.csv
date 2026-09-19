@@ -1,0 +1,7 @@
+﻿design,groups,locations,intersections,rows,before_rows,during_rows,after_rows
+raw_location,357,357,177,5072,1587,1295,2190
+candidate_location,357,357,177,5047,1587,1289,2171
+candidate_location_time,623,352,175,2612,902,733,977
+candidate_report_month_time,15,11,6,47,17,15,15
+candidate_report_quarter_time,70,52,29,226,81,70,75
+candidate_survey_month_time,15,11,6,47,17,15,15

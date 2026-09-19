@@ -1,0 +1,12 @@
+{
+  "source_sha256": "6e1b556f353c66fec5c8a664f3e1e5b5e52e5a756f75c2ae28562c5c0fa6118b",
+  "notebook": {
+    "notebook": "01_data_feasibility_matching.ipynb",
+    "executed_code_cells": 7,
+    "errors": 0,
+    "embedded_images": 0
+  },
+  "rows": 17005,
+  "covid_period_preserved": true,
+  "zero_assumed_cells": 2288
+}

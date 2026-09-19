@@ -1,0 +1,6 @@
+﻿report_year,units,locations,median_index,months,interpretation
+2022,50,20,92.64216485651787,"1,3,4,5,6,7,8,11",different matched sample each year; no trend line
+2023,34,34,102.74833655072592,"1,2,3,4,5,6,7,9,10,11",different matched sample each year; no trend line
+2024,13,13,94.85655503486112,"3,6,9,10,12",different matched sample each year; no trend line
+2025,30,28,86.77257216637462,"4,6,7,10,11,12",different matched sample each year; no trend line
+2026,6,6,54.66436202825574,"3,5",different matched sample each year; no trend line

@@ -1,0 +1,851 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-13T18:56:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 61711121,
+  "lat": 13.7897492,
+  "lon": 100.5740664,
+  "tags": {
+    "day_off": "saturday",
+    "day_on": "monday",
+    "hour_off": "22:00",
+    "hour_on": "14:00",
+    "junction": "yes",
+    "name": "รัชดา-สุทธิสาร",
+    "name:en": "Rachada-Suthisarn"
+  }
+},
+{
+  "type": "node",
+  "id": 61713461,
+  "lat": 13.7499708,
+  "lon": 100.5544539,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกมิตรสัมพันธ์",
+    "name:en": "Mit Samphan Intersection",
+    "name:th": "แยกมิตรสัมพันธ์"
+  }
+},
+{
+  "type": "node",
+  "id": 68163665,
+  "lat": 13.7735857,
+  "lon": 100.5191003,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกราชวิถี",
+    "name:en": "Ratchawithi Intersection",
+    "name:th": "แยกราชวิถี"
+  }
+},
+{
+  "type": "node",
+  "id": 85703490,
+  "lat": 13.7151908,
+  "lon": 100.5762332,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกแสนสบาย",
+    "name:en": "Saen Sabai Junction",
+    "name:th": "แยกแสนสบาย"
+  }
+},
+{
+  "type": "node",
+  "id": 268267467,
+  "lat": 13.7761727,
+  "lon": 100.5283651,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสามเสน",
+    "name:en": "Sam Sen Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 269347944,
+  "lat": 13.7711605,
+  "lon": 100.5050027,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสี่เสาเทเวศร์",
+    "name:en": "Si Sao Thewet Intersection",
+    "name:th": "แยกสี่เสาเทเวศร์",
+    "ref": "071"
+  }
+},
+{
+  "type": "node",
+  "id": 269348004,
+  "lat": 13.7769469,
+  "lon": 100.5117499,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกการเรือน",
+    "name:en": "Kan Ruean Intersection",
+    "name:th": "แยกการเรือน"
+  }
+},
+{
+  "type": "node",
+  "id": 275510876,
+  "lat": 13.7160419,
+  "lon": 100.5388763,
+  "tags": {
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "name": "แยกเทคนิคกรุงเทพ",
+    "name:en": "Technic Krung Thep Intersection",
+    "name:th": "แยกเทคนิคกรุงเทพ",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 275514982,
+  "lat": 13.7363615,
+  "lon": 100.5612130,
+  "tags": {
+    "alt_name": "แยกอโศก",
+    "alt_name:en": "Asok Intersection",
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "maxspeed": "60",
+    "name": "แยกอโศกมนตรี",
+    "name:en": "Asok Montri Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 277926075,
+  "lat": 13.7070000,
+  "lon": 100.5436661,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกอมร",
+    "name:en": "Amon Intersection",
+    "name:th": "แยกอมร"
+  }
+},
+{
+  "type": "node",
+  "id": 280386486,
+  "lat": 13.7472895,
+  "lon": 100.4964361,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสะพานมอญ",
+    "name:en": "Saphan Mon Intersection",
+    "name:th": "แยกสะพานมอญ",
+    "wikidata": "Q30590569",
+    "wikimedia_commons": "Category:Saphan Mon",
+    "wikipedia": "en:Saphan Mon"
+  }
+},
+{
+  "type": "node",
+  "id": 280762693,
+  "lat": 13.7314640,
+  "lon": 100.5230598,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกนเรศ",
+    "name:en": "Naret Junction",
+    "name:th": "แยกนเรศ",
+    "ref": "388"
+  }
+},
+{
+  "type": "node",
+  "id": 281145526,
+  "lat": 13.7670695,
+  "lon": 100.5864645,
+  "tags": {
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "name": "แยกประชาร่วมมิตร",
+    "name:en": "Pracha Ruam Mit Junction",
+    "name:th": "แยกประชาร่วมมิตร"
+  }
+},
+{
+  "type": "node",
+  "id": 281145536,
+  "lat": 13.7698729,
+  "lon": 100.5864665,
+  "tags": {
+    "alt_name": "แยกเหม่งจ๋าย",
+    "alt_name:en": "Meng Chai Intersection",
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "name": "แยกประชาอุทิศ",
+    "name:en": "Pracha Uthit Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 281478465,
+  "lat": 13.7254297,
+  "lon": 100.5162528,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสุรวงศ์",
+    "name:en": "Surawong Junction",
+    "name:th": "แยกสุรวงศ์",
+    "ref": "283"
+  }
+},
+{
+  "type": "node",
+  "id": 286967675,
+  "lat": 13.5953656,
+  "lon": 100.6071995,
+  "tags": {
+    "junction": "yes",
+    "name": "การไฟฟ้าสมุทรปราการ",
+    "name:en": "SamutPrakarnMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 303606610,
+  "lat": 13.7236170,
+  "lon": 100.5794900,
+  "tags": {
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "name": "แยกทองหล่อ",
+    "name:en": "Thong Lo Junction",
+    "name:th": "แยกทองหล่อ"
+  }
+},
+{
+  "type": "node",
+  "id": 312063207,
+  "lat": 13.7633128,
+  "lon": 100.5134753,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกพาณิชยการ",
+    "name:en": "Phanitchayakan Intersection",
+    "name:th": "แยกพาณิชยการ",
+    "ref": "101"
+  }
+},
+{
+  "type": "node",
+  "id": 312063214,
+  "lat": 13.7659191,
+  "lon": 100.5104463,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสวนมิสกวัน",
+    "name:en": "Suan Misakawan Intersection",
+    "name:th": "แยกสวนมิสกวัน",
+    "ref": "076"
+  }
+},
+{
+  "type": "node",
+  "id": 312063216,
+  "lat": 13.7683600,
+  "lon": 100.5076045,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวังแดง",
+    "name:en": "Wang Daeng Intersection",
+    "name:th": "แยกวังแดง",
+    "ref": "074"
+  }
+},
+{
+  "type": "node",
+  "id": 312063273,
+  "lat": 13.7599572,
+  "lon": 100.5076562,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกจ.ป.ร.",
+    "name:en": "Jor Por Ror Intersection",
+    "name:th": "แยกจ.ป.ร.",
+    "ref": "012"
+  }
+},
+{
+  "type": "node",
+  "id": 312064895,
+  "lat": 13.7413942,
+  "lon": 100.4705442,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกพาณิชยการธนบุรี",
+    "name:en": "Phanitchayakan Thon Buri Junction",
+    "name:th": "แยกพาณิชยการธนบุรี"
+  }
+},
+{
+  "type": "node",
+  "id": 313272269,
+  "lat": 13.8432807,
+  "lon": 100.4955048,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกศรีพรสวรรค์",
+    "name:en": "Si Phon Sawan Intersection",
+    "name:th": "แยกศรีพรสวรรค์",
+    "wikidata": "Q16434040",
+    "wikipedia": "th:แยกศรีพรสวรรค์"
+  }
+},
+{
+  "type": "node",
+  "id": 373456021,
+  "lat": 13.7853492,
+  "lon": 100.5117902,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกศรีย่าน",
+    "name:en": "Sri Yan"
+  }
+},
+{
+  "type": "node",
+  "id": 373456028,
+  "lat": 13.7972807,
+  "lon": 100.5213412,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกเกียกกาย",
+    "name:en": "Kiak Kai Intersection",
+    "name:th": "แยกเกียกกาย",
+    "official_name:th": "แยกเกียกกาย"
+  }
+},
+{
+  "type": "node",
+  "id": 446286820,
+  "lat": 13.7934578,
+  "lon": 100.5299073,
+  "tags": {
+    "highway": "traffic_signals",
+    "junction": "yes",
+    "name": "แยกสะพานแดง",
+    "name:en": "Saphan Daeng Intersection",
+    "name:th": "แยกสะพานแดง"
+  }
+},
+{
+  "type": "node",
+  "id": 446298019,
+  "lat": 13.7893600,
+  "lon": 100.5146193,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกบางกระบือ",
+    "name:en": "Bang Kra Bue",
+    "wikidata": "Q50331985",
+    "wikimedia_commons": "Category:Bang Krabue Intersection",
+    "wikipedia": "en:Bang Krabue, Bangkok"
+  }
+},
+{
+  "type": "node",
+  "id": 446298085,
+  "lat": 13.7833490,
+  "lon": 100.5244063,
+  "tags": {
+    "alt_name:en": "Kesakomon Intersection",
+    "junction": "yes",
+    "name": "แยกเกษะโกมล",
+    "name:en": "Keshakomala Intersection",
+    "name:th": "แยกเกษะโกมล"
+  }
+},
+{
+  "type": "node",
+  "id": 446298128,
+  "lat": 13.7859525,
+  "lon": 100.5201702,
+  "tags": {
+    "junction": "yes",
+    "name": "สามแยกพิชัย",
+    "name:th": "สามแยกพิชัย"
+  }
+},
+{
+  "type": "node",
+  "id": 496755241,
+  "lat": 13.7323064,
+  "lon": 100.5022527,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกท่าดินแดง",
+    "name:en": "Tha Din Daeng Intersection",
+    "name:th": "แยกท่าดินแดง"
+  }
+},
+{
+  "type": "node",
+  "id": 510151487,
+  "lat": 13.7106130,
+  "lon": 100.5417644,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกเย็นอากาศ",
+    "name:en": "Yen Akat Juction",
+    "name:th": "แยกเย็นอากาศ"
+  }
+},
+{
+  "type": "node",
+  "id": 565343871,
+  "lat": 13.7916729,
+  "lon": 100.4634859,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสวนผัก",
+    "name:en": "Suan Phak Junction",
+    "name:th": "แยกสวนผัก"
+  }
+},
+{
+  "type": "node",
+  "id": 871680209,
+  "lat": 13.8425215,
+  "lon": 100.4817050,
+  "tags": {
+    "junction": "yes",
+    "name": "สี่แยกบางศรีเมือง",
+    "name:en": "Bang Si Mueang four-way intersection",
+    "name:th": "สี่แยกบางศรีเมือง"
+  }
+},
+{
+  "type": "node",
+  "id": 925518472,
+  "lat": 13.8329295,
+  "lon": 100.4681429,
+  "tags": {
+    "alt_name:en": "Tha Nam Non three-way junction",
+    "alt_name:th": "สามแยกท่าน้ำนนท์",
+    "junction": "yes",
+    "name": "สามแยกบางศรีเมือง",
+    "name:en": "Bang Si Mueang three-way junction",
+    "name:th": "สามแยกบางศรีเมือง"
+  }
+},
+{
+  "type": "node",
+  "id": 1114715411,
+  "lat": 13.7034751,
+  "lon": 100.4214373,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกพัฒนาการ",
+    "name:en": "Phatthanakan Junction",
+    "name:th": "แยกพัฒนาการ"
+  }
+},
+{
+  "type": "node",
+  "id": 1115455782,
+  "lat": 13.6949849,
+  "lon": 100.4220112,
+  "tags": {
+    "alt_name": "แยกแยกคลองหนองใหญ่",
+    "alt_name:en": "Khlong Nong Yai Intersection",
+    "alt_name:th": "แยกแยกคลองหนองใหญ่",
+    "junction": "yes",
+    "name": "แยกหนองใหญ่",
+    "name:en": "Nong Yai Intersection",
+    "name:th": "แยกหนองใหญ่",
+    "ref": "609"
+  }
+},
+{
+  "type": "node",
+  "id": 1137243734,
+  "lat": 13.7044252,
+  "lon": 100.3311636,
+  "tags": {
+    "junction": "yes",
+    "name": "ทางแยกสาครเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 1278004412,
+  "lat": 13.6968842,
+  "lon": 100.3909642,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวัดม่วง",
+    "name:en": "Wat Muang Junction",
+    "name:th": "แยกวัดม่วง",
+    "ref": "637"
+  }
+},
+{
+  "type": "node",
+  "id": 1483257751,
+  "lat": 13.7239605,
+  "lon": 100.7899116,
+  "tags": {
+    "junction": "yes",
+    "name": "สี่แยกหัวตะเข้",
+    "name:th": "สี่แยกหัวตะเข้",
+    "waterway": "junction"
+  }
+},
+{
+  "type": "node",
+  "id": 1597062725,
+  "lat": 13.7423138,
+  "lon": 100.5228087,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกจรัสเมือง",
+    "name:en": "Charat Mueang Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 1672566452,
+  "lat": 13.7195445,
+  "lon": 100.4725590,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวุฒากาศ",
+    "name:en": "Wutthakat Junction",
+    "name:th": "แยกวุฒากาศ"
+  }
+},
+{
+  "type": "node",
+  "id": 1677796097,
+  "lat": 13.7794575,
+  "lon": 100.5223134,
+  "tags": {
+    "junction": "yes",
+    "layer": "1",
+    "name": "แยกราชวัตร",
+    "name:en": "Ratchawat Intersection",
+    "name:th": "แยกราชวัตร",
+    "ref": "028"
+  }
+},
+{
+  "type": "node",
+  "id": 1677796101,
+  "lat": 13.7835677,
+  "lon": 100.5150157,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกร่วมจิตต์",
+    "name:en": "Ruam Chit Intersection",
+    "name:th": "แยกราชวัตร",
+    "ref": "149"
+  }
+},
+{
+  "type": "node",
+  "id": 1693505749,
+  "lat": 13.7720751,
+  "lon": 100.5093904,
+  "tags": {
+    "alt_name:en": "Uthong Nok",
+    "junction": "yes",
+    "name": "แยกอู่ทองนอก",
+    "name:en": "U Thong Nok Intersection",
+    "name:th": "แยกอู่ทองนอก"
+  }
+},
+{
+  "type": "node",
+  "id": 1699503382,
+  "lat": 13.7582471,
+  "lon": 100.5095265,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกจักรพรรดิพงษ์",
+    "name:en": "Chakkraphatdiphong Intersection",
+    "name:th": "แยกจักรพรรดิพงษ์",
+    "ref": "032"
+  }
+},
+{
+  "type": "node",
+  "id": 2100971807,
+  "lat": 13.8930202,
+  "lon": 100.4628340,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกฮานาฟี-แม่แมะ",
+    "name:th": "แยกฮานาฟี-แม่แมะ"
+  }
+},
+{
+  "type": "node",
+  "id": 2140962396,
+  "lat": 13.8055247,
+  "lon": 100.4883877,
+  "tags": {
+    "junction": "yes",
+    "name": "สี่แยกวัดสำโรง",
+    "name:en": "Wat Samrong four-way intersection",
+    "name:th": "สี่แยกวัดสำโรง"
+  }
+},
+{
+  "type": "node",
+  "id": 2140962436,
+  "lat": 13.8087637,
+  "lon": 100.4644284,
+  "tags": {
+    "junction": "yes",
+    "name": "สามแยกบางขนุน",
+    "name:en": "Bang Kha Noon three-way junction",
+    "name:th": "สามแยกบางขนุน"
+  }
+},
+{
+  "type": "node",
+  "id": 2339057525,
+  "lat": 13.7435599,
+  "lon": 100.5897024,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกเอกมัยเหนือ",
+    "name:en": "Ekamai Nuea Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 2618500843,
+  "lat": 13.7405629,
+  "lon": 100.4599243,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกบางเสาธง",
+    "name:en": "Bang Sao Thong Junction",
+    "name:th": "แยกบางเสาธง"
+  }
+},
+{
+  "type": "node",
+  "id": 2973077898,
+  "lat": 13.7324348,
+  "lon": 100.5447828,
+  "tags": {
+    "junction": "yes",
+    "name": "โค้งตาหวาน",
+    "name:en": "Ta-Wann sharp curve",
+    "name:th": "โค้งตาหวาน"
+  }
+},
+{
+  "type": "node",
+  "id": 3275634690,
+  "lat": 13.8179353,
+  "lon": 100.4582090,
+  "tags": {
+    "junction": "yes",
+    "name": "สี่แยกหน้าวัดบางขนุน",
+    "name:en": "Wat Bang Kha Noon four-way intersection",
+    "name:th": "สี่แยกหน้าวัดบางขนุน"
+  }
+},
+{
+  "type": "node",
+  "id": 3368090630,
+  "lat": 13.7409429,
+  "lon": 100.6007876,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกคลองตัน",
+    "name:en": "Khlong Tan Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 3495383061,
+  "lat": 13.7100585,
+  "lon": 100.5112737,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกตรอกจันทน์",
+    "name:en": "Trok Chan Junction",
+    "name:th": "แยกตรอกจันทน์"
+  }
+},
+{
+  "type": "node",
+  "id": 3791497891,
+  "lat": 13.7372003,
+  "lon": 100.4336536,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวัดไชยฉิมพลี",
+    "name:en": "Wat Chai Chim Phli Junction",
+    "name:th": "แยกวัดไชยฉิมพลี",
+    "ref": "601"
+  }
+},
+{
+  "type": "node",
+  "id": 4086639189,
+  "lat": 13.6276049,
+  "lon": 100.6268410,
+  "tags": {
+    "junction": "yes",
+    "name": "ศรีเทพา",
+    "name:en": "Sri Tepha"
+  }
+},
+{
+  "type": "node",
+  "id": 4087023894,
+  "lat": 13.7531983,
+  "lon": 100.5316981,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกราชเทวี",
+    "name:en": "Ratchathewi Intersection",
+    "name:th": "แยกราชเทวี",
+    "ref": "018"
+  }
+},
+{
+  "type": "node",
+  "id": 4599130224,
+  "lat": 13.7898139,
+  "lon": 100.5482078,
+  "tags": {
+    "junction": "yes",
+    "name": "สะพานควาย",
+    "name:th": "สะพานควาย"
+  }
+},
+{
+  "type": "node",
+  "id": 4643758075,
+  "lat": 13.7489468,
+  "lon": 100.5633878,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกอโศก-เพชรบุรี",
+    "name:en": "Asok-Phetchaburi Intersection",
+    "name:th": "แยกอโศก-เพชรบุรี",
+    "short_name": "แยกอโศกเพชร",
+    "short_name:en": "Asok-Phetch Intersection",
+    "short_name:th": "แยกอโศกเพชร"
+  }
+},
+{
+  "type": "node",
+  "id": 7265755159,
+  "lat": 13.8064860,
+  "lon": 100.5215457,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกบางโพ",
+    "name:en": "Bang Pho",
+    "wikidata": "Q25537759"
+  }
+},
+{
+  "type": "node",
+  "id": 7747044603,
+  "lat": 13.6747060,
+  "lon": 100.4270748,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกบางบอน",
+    "name:en": "Bang Bon Intersection"
+  }
+},
+{
+  "type": "node",
+  "id": 7781339489,
+  "lat": 13.7751987,
+  "lon": 100.5155018,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกอู่ทองใน",
+    "name:en": "U Thong Nai Junction",
+    "name:th": "อู่ทองใน"
+  }
+},
+{
+  "type": "node",
+  "id": 10266489166,
+  "lat": 13.7294006,
+  "lon": 100.5446214,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวงกลม",
+    "name:en": "Circle Junction",
+    "name:th": "แยกวงกลม"
+  }
+},
+{
+  "type": "node",
+  "id": 12287680104,
+  "lat": 13.7263134,
+  "lon": 100.5443777,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกวิทยุ",
+    "name:en": "Witthayu Intersection",
+    "name:th": "แยกวิทยุ"
+  }
+},
+{
+  "type": "node",
+  "id": 13167186218,
+  "lat": 13.7471239,
+  "lon": 100.4997484,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกเฉลิมกรุง",
+    "name:en": "Chaloem Krung Intersection",
+    "wikidata": "Q16305812"
+  }
+},
+{
+  "type": "node",
+  "id": 13167186222,
+  "lat": 13.7470570,
+  "lon": 100.5010887,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกอุณากรรณ",
+    "name:en": "Unakan Intersection",
+    "name:th": "แยกอุณากรรณ"
+  }
+},
+{
+  "type": "node",
+  "id": 13167186226,
+  "lat": 13.7469531,
+  "lon": 100.5031696,
+  "tags": {
+    "junction": "yes",
+    "name": "แยกสามยอด",
+    "name:en": "Sam Yot Intersection",
+    "name:th": "แยกสามยอด",
+    "wikidata": "Q50365955",
+    "wikipedia": "en:Sam Yot"
+  }
+}
+
+  ]
+}

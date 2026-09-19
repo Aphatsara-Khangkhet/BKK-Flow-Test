@@ -1,0 +1,35 @@
+{
+  "after_at_or_above_100_pct": 35.313001605136435,
+  "paired_am_pm": {
+    "locations": 133,
+    "median_after_pm_minus_am_points": 3.419280317724187,
+    "median_during_pm_minus_am_points": 3.705515302691566,
+    "median_indices": {
+      "07:00-09:00": {
+        "Before": 100.0,
+        "During": 91.69435215946844,
+        "After": 93.27678290920515
+      },
+      "16:00-19:00": {
+        "Before": 100.0,
+        "During": 91.98343079922027,
+        "After": 94.0351364488577
+      }
+    }
+  },
+  "ranking_eligible_locations": 17,
+  "share_change_pp": {
+    "tuk_tuk": -0.8038642708124137,
+    "pickup_van": -0.5935859076919421,
+    "large_bus": -0.3199516309368864,
+    "small_bus": -0.14513815089697474,
+    "truck": 0.27145826202338563,
+    "passenger_car": 1.591081698314838
+  },
+  "year2026": {
+    "units": 6,
+    "rows": 12,
+    "median_paired_index": 54.66436202825574,
+    "locations": 6
+  }
+}

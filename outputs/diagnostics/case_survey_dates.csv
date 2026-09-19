@@ -1,0 +1,69 @@
+﻿location_code,intersection_key,road_key,covid_period,survey_date_parsed,survey_weekday,report_date,vehicles_per_hour,has_assumed_zero,calendar_screen,period_before_emergency,source_excel_row
+L03,บางขุนนนท์,จรัญสนิทวงศ์,ก่อนโควิด,2017-03-13,Monday,2017-03-13,1967.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,62
+L03,บางขุนนนท์,จรัญสนิทวงศ์,ก่อนโควิด,2019-02-08,Friday,2019-02-08,2234.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,3299
+L03,บางขุนนนท์,จรัญสนิทวงศ์,โควิด,2020-08-28,Friday,2020-08-28,3770.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,5831
+L03,บางขุนนนท์,จรัญสนิทวงศ์,โควิด,2021-09-13,Monday,2021-09-13,2338.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7724
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2023-08-28,Monday,2023-08-28,2893.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,11724
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2024-01-11,Thursday,2024-01-11,3049.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,12489
+L03,บางขุนนนท์,จรัญสนิทวงศ์,หลังโควิด,2026-03-19,Thursday,2026-03-19,2560.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,16635
+L04,บางยี่เรือ,เทอดไท,ก่อนโควิด,2017-05-25,Thursday,2017-05-25,792.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,404
+L04,บางยี่เรือ,เทอดไท,ก่อนโควิด,2019-03-22,Friday,2019-03-22,673.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,3575
+L04,บางยี่เรือ,เทอดไท,โควิด,2021-03-04,Thursday,2021-03-04,565.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6552
+L04,บางยี่เรือ,เทอดไท,โควิด,2021-08-25,Wednesday,2021-08-25,1208.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,7599
+L04,บางยี่เรือ,เทอดไท,หลังโควิด,2022-11-30,Wednesday,2022-11-30,873.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,10335
+L04,บางยี่เรือ,เทอดไท,หลังโควิด,2024-06-19,Wednesday,2024-06-19,504.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,13404
+L04,บางยี่เรือ,เทอดไท,หลังโควิด,2026-05-08,Friday,2026-05-08,368.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,16887
+L06,พระราม 9,พระราม 9,ก่อนโควิด,2017-10-17,Tuesday,2017-10-17,2022.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,1076
+L06,พระราม 9,พระราม 9,ก่อนโควิด,2019-02-07,Thursday,2019-02-07,2216.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,3296
+L06,พระราม 9,พระราม 9,โควิด,2020-11-12,Thursday,2020-11-12,2049.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6014
+L06,พระราม 9,พระราม 9,โควิด,2021-12-13,Monday,2021-12-13,2613.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,8291
+L06,พระราม 9,พระราม 9,หลังโควิด,2023-02-08,Wednesday,2023-02-08,2292.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,10722
+L06,พระราม 9,พระราม 9,หลังโควิด,2025-09-26,Friday,2025-09-26,2686.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,15855
+L07,พระราม 9,รัชดาภิเษก,ก่อนโควิด,2017-10-17,Tuesday,2017-10-17,2961.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,1070
+L07,พระราม 9,รัชดาภิเษก,ก่อนโควิด,2019-02-07,Thursday,2019-02-07,3576.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,3290
+L07,พระราม 9,รัชดาภิเษก,โควิด,2020-11-12,Thursday,2020-11-12,3569.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6012
+L07,พระราม 9,รัชดาภิเษก,โควิด,2021-12-13,Monday,2021-12-13,3985.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,8289
+L07,พระราม 9,รัชดาภิเษก,หลังโควิด,2023-02-08,Wednesday,2023-02-08,3860.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,10716
+L07,พระราม 9,รัชดาภิเษก,หลังโควิด,2025-09-26,Friday,2025-09-26,3321.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,15849
+L08,พระราม 9,อโศกดินแดง,ก่อนโควิด,2017-10-17,Tuesday,2017-10-17,3275.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,1073
+L08,พระราม 9,อโศกดินแดง,ก่อนโควิด,2019-02-07,Thursday,2019-02-07,2584.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,3293
+L08,พระราม 9,อโศกดินแดง,โควิด,2020-11-12,Thursday,2020-11-12,3532.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,6013
+L08,พระราม 9,อโศกดินแดง,โควิด,2021-12-13,Monday,2021-12-13,2852.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,8290
+L08,พระราม 9,อโศกดินแดง,หลังโควิด,2023-02-08,Wednesday,2023-02-08,2876.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,10719
+L08,พระราม 9,อโศกดินแดง,หลังโควิด,2025-09-26,Friday,2025-09-26,3183.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,15852
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,ก่อนโควิด,2017-07-25,Tuesday,2017-07-25,1615.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,704
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,ก่อนโควิด,2019-08-22,Thursday,2019-08-22,1106.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,4256
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,โควิด,2020-02-04,Tuesday,2020-02-04,946.5,True,no_selected_calendar_window; other_events_not_ruled_out,True,5124
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,โควิด,2020-02-12,Wednesday,2020-02-12,1382.5,True,no_selected_calendar_window; other_events_not_ruled_out,True,5175
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,โควิด,2021-12-29,Wednesday,2021-12-29,590.5,False,near_new_year_window_not_official_holiday_flag,False,8376
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,หลังโควิด,2022-06-16,Thursday,2022-06-16,569.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,9312
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,หลังโควิด,2024-05-02,Thursday,2024-05-02,667.0,False,day_after_May1_not_itself_confirmed_holiday,False,13122
+L09,มิตรไมตรี - มิตรไมตรี 2,มิตรไมตรี,หลังโควิด,2025-09-25,Thursday,2025-09-25,734.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,15843
+L13,หลักสี่,กำแพงเพชร 6,ก่อนโควิด,2017-06-19,Monday,2017-06-19,2130.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,509
+L13,หลักสี่,กำแพงเพชร 6,ก่อนโควิด,2018-08-21,Tuesday,2018-08-21,1381.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,2480
+L13,หลักสี่,กำแพงเพชร 6,โควิด,2021-05-20,Thursday,2021-05-20,918.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6927
+L13,หลักสี่,กำแพงเพชร 6,โควิด,2021-10-06,Wednesday,2021-10-06,1863.5,True,no_selected_calendar_window; other_events_not_ruled_out,False,7863
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2023-07-25,Tuesday,2023-07-25,1061.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,11550
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2024-01-18,Thursday,2024-01-18,1773.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,12528
+L13,หลักสี่,กำแพงเพชร 6,หลังโควิด,2026-05-20,Wednesday,2026-05-20,1049.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,16950
+L14,หลักสี่,แจ้งวัฒนะ,ก่อนโควิด,2017-06-19,Monday,2017-06-19,2962.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,512
+L14,หลักสี่,แจ้งวัฒนะ,ก่อนโควิด,2018-08-21,Tuesday,2018-08-21,3895.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,2483
+L14,หลักสี่,แจ้งวัฒนะ,โควิด,2021-05-20,Thursday,2021-05-20,2121.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,6928
+L14,หลักสี่,แจ้งวัฒนะ,โควิด,2021-10-06,Wednesday,2021-10-06,2885.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7864
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2023-07-25,Tuesday,2023-07-25,2417.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,11553
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2024-01-18,Thursday,2024-01-18,2455.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,12531
+L14,หลักสี่,แจ้งวัฒนะ,หลังโควิด,2026-05-20,Wednesday,2026-05-20,2450.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,16953
+L15,ห้วยขวาง,ประชาสงเคราะห์,ก่อนโควิด,2018-03-27,Tuesday,2018-03-27,422.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,1844
+L15,ห้วยขวาง,ประชาสงเคราะห์,ก่อนโควิด,2019-12-24,Tuesday,2019-12-24,859.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,4904
+L15,ห้วยขวาง,ประชาสงเคราะห์,โควิด,2021-08-16,Monday,2021-08-16,496.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7516
+L15,ห้วยขวาง,ประชาสงเคราะห์,โควิด,2021-12-22,Wednesday,2021-12-22,1525.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,8350
+L15,ห้วยขวาง,ประชาสงเคราะห์,หลังโควิด,2022-07-11,Monday,2022-07-11,466.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,9474
+L15,ห้วยขวาง,ประชาสงเคราะห์,หลังโควิด,2023-03-28,Tuesday,2023-03-28,482.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,10950
+L15,ห้วยขวาง,ประชาสงเคราะห์,หลังโควิด,2024-09-12,Thursday,2024-09-12,583.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,13881
+L15,ห้วยขวาง,ประชาสงเคราะห์,หลังโควิด,2026-01-09,Friday,2026-01-09,488.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,16311
+L17,เตาปูน,ประชาราษฎร์สาย 2,ก่อนโควิด,2017-08-04,Friday,2017-08-04,1682.5,False,no_selected_calendar_window; other_events_not_ruled_out,False,776
+L17,เตาปูน,ประชาราษฎร์สาย 2,ก่อนโควิด,2019-10-04,Friday,2019-10-04,1393.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,4490
+L17,เตาปูน,ประชาราษฎร์สาย 2,โควิด,2021-06-15,Tuesday,2021-06-15,1383.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7058
+L17,เตาปูน,ประชาราษฎร์สาย 2,โควิด,2021-09-06,Monday,2021-09-06,1041.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,7679
+L17,เตาปูน,ประชาราษฎร์สาย 2,หลังโควิด,2023-07-21,Friday,2023-07-21,1735.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,11535
+L17,เตาปูน,ประชาราษฎร์สาย 2,หลังโควิด,2025-10-30,Thursday,2025-10-30,1316.0,False,no_selected_calendar_window; other_events_not_ruled_out,False,16044

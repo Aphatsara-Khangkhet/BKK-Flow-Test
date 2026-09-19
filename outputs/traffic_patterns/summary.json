@@ -1,0 +1,9 @@
+{
+  "window": "report AND survey years 2023-2025",
+  "complete_days": 26,
+  "profile_locations": 26,
+  "vehicle_mix_locations": 287,
+  "concentration_intersections": 98,
+  "sampling_locations": 40,
+  "source_sha256": "6e1b556f353c66fec5c8a664f3e1e5b5e52e5a756f75c2ae28562c5c0fa6118b"
+}
